@@ -1,0 +1,173 @@
+INFO    2022-05-27 19:51:54,483 [main] com.dh.Test  - El LeónScarestá corriendo
+INFO    2022-05-27 19:51:54,502 [main] com.dh.Test  - La edad del LeónScares11.Por lo tanto estrue
+INFO    2022-05-27 19:51:54,503 [main] com.dh.Test  - El LeónNalaestá corriendo
+INFO    2022-05-27 19:51:54,503 [main] com.dh.Test  - La edad del LeónNalaes8.Por lo tanto no esfalse
+INFO    2022-05-27 19:51:54,504 [main] com.dh.Test  - El LeónSimbaestá corriendo
+INFO    2022-05-27 19:51:54,504 [main] com.dh.Test  - La edad del LeónSimbaes-4.Por lo tanto no esfalse
+INFO    2022-05-27 19:53:26,036 [main] com.dh.Test  - El León Scar está corriendo
+INFO    2022-05-27 19:53:26,056 [main] com.dh.Test  - La edad del León Scar es 11.Por lo tanto es true
+INFO    2022-05-27 19:53:26,056 [main] com.dh.Test  - El León Nala está corriendo
+INFO    2022-05-27 19:53:26,057 [main] com.dh.Test  - La edad del León Nala es 8.Por lo tanto no es false
+INFO    2022-05-27 19:53:26,057 [main] com.dh.Test  - El León Simba está corriendo
+INFO    2022-05-27 19:53:26,057 [main] com.dh.Test  - La edad del León Simba es -4.Por lo tanto no es false
+INFO    2022-05-27 20:00:28,301 [main] com.dh.Test  - El León Scar está corriendo
+INFO    2022-05-27 20:00:28,320 [main] com.dh.Test  - La edad del León Scar es 11.Por lo tanto es alfa
+INFO    2022-05-27 20:00:28,321 [main] com.dh.Test  - El León Nala está corriendo
+INFO    2022-05-27 20:00:28,321 [main] com.dh.Test  - La edad del León Nala es 8.Por lo tanto no es alfa
+INFO    2022-05-27 20:00:28,322 [main] com.dh.Test  - El León Simba está corriendo
+INFO    2022-05-27 20:00:28,322 [main] com.dh.Test  - La edad del León Simba es -4.Por lo tanto no es alfa
+INFO    2022-05-27 20:00:28,323 [main] com.dh.Test  - El Tigre Kelloggs está corriendo
+INFO    2022-05-27 20:00:28,323 [main] com.dh.Test  - La edad del tigre Kelloggs es: 12 años
+INFO    2022-05-27 20:00:28,324 [main] com.dh.Test  - La edad del tigre Shere Khan es: 4 años
+INFO    2022-05-27 20:00:28,324 [main] com.dh.Test  - La edad del tigre Tiger es: -2 años
+INFO    2022-05-27 20:00:28,324 [main] com.dh.Test  - La edad del tigre Kelloggs es: 12 años
+INFO    2022-05-27 20:00:28,324 [main] com.dh.Test  - La edad del tigre Shere Khan es: 4 años
+INFO    2022-05-27 20:00:28,324 [main] com.dh.Test  - La edad del tigre Tiger es: -2 años
+INFO    2022-05-27 20:04:07,454 [main] com.dh.Test  - El León Scar está corriendo
+INFO    2022-05-27 20:04:07,455 [main] com.dh.Test  - El León Nala está corriendo
+INFO    2022-05-27 20:04:07,456 [main] com.dh.Test  - El León Simba está corriendo
+INFO    2022-05-27 20:04:07,464 [main] com.dh.Test  - La edad del León Scar es 11.Por lo tanto es alfa
+INFO    2022-05-27 20:04:07,465 [main] com.dh.Test  - La edad del León Nala es 8.Por lo tanto no es alfa
+INFO    2022-05-27 20:04:07,465 [main] com.dh.Test  - La edad del León Simba es -4.Por lo tanto no es alfa
+INFO    2022-05-27 20:04:07,466 [main] com.dh.Test  - El Tigre Kelloggs está corriendo
+INFO    2022-05-27 20:04:07,466 [main] com.dh.Test  - El Tigre Shere Khan está corriendo
+INFO    2022-05-27 20:04:07,467 [main] com.dh.Test  - El Tigre Tiger está corriendo
+INFO    2022-05-27 20:04:07,467 [main] com.dh.Test  - La edad del tigre Kelloggs es: 12 años
+INFO    2022-05-27 20:04:07,468 [main] com.dh.Test  - La edad del tigre Shere Khan es: 4 años
+INFO    2022-05-27 20:04:07,468 [main] com.dh.Test  - La edad del tigre Tiger es: -2 años
+INFO    2022-05-27 20:05:37,678 [main] com.dh.Test  - El León Scar está corriendo
+INFO    2022-05-27 20:05:37,679 [main] com.dh.Test  - El León Nala está corriendo
+INFO    2022-05-27 20:05:37,688 [main] com.dh.Test  - La edad del León Scar es 11. Por lo tanto es alfa
+INFO    2022-05-27 20:05:37,688 [main] com.dh.Test  - La edad del León Nala es 8. Por lo tanto no es alfa
+INFO    2022-05-27 20:05:37,689 [main] com.dh.Test  - La edad del León Simba es -4. Por lo tanto no es alfa
+INFO    2022-05-27 20:05:37,689 [main] com.dh.Test  - El Tigre Kelloggs está corriendo
+INFO    2022-05-27 20:05:37,689 [main] com.dh.Test  - El Tigre Shere Khan está corriendo
+INFO    2022-05-27 20:05:37,690 [main] com.dh.Test  - La edad del tigre Kelloggs es: 12 años
+INFO    2022-05-27 20:05:37,690 [main] com.dh.Test  - La edad del tigre Shere Khan es: 4 años
+INFO    2022-05-27 20:05:37,691 [main] com.dh.Test  - La edad del tigre Tiger es: -2 años
+INFO    2022-05-28 11:07:12,495 [main] com.dh.Test  - El León Scar está corriendo
+INFO    2022-05-28 11:07:12,497 [main] com.dh.Test  - El León Nala está corriendo
+INFO    2022-05-28 11:07:12,506 [main] com.dh.Test  - La edad del León Scar es 11. Por lo tanto es alfa
+INFO    2022-05-28 11:07:12,506 [main] com.dh.Test  - La edad del León Nala es 8. Por lo tanto no es alfa
+INFO    2022-05-28 11:07:12,507 [main] com.dh.Test  - La edad del León Simba es incorrecta
+ERROR   2022-05-28 11:07:12,508 [main] com.dh.Test  - La edad del leonSimbaes incorrecta
+java.lang.RuntimeException
+	at com.dh.Leon.esMayorA10(Leon.java:40)
+	at com.dh.Test.main(Test.java:32)
+INFO    2022-05-28 11:07:12,510 [main] com.dh.Test  - El Tigre Kelloggs está corriendo
+INFO    2022-05-28 11:07:12,510 [main] com.dh.Test  - El Tigre Shere Khan está corriendo
+INFO    2022-05-28 11:07:12,511 [main] com.dh.Test  - La edad del tigre Kelloggs es: 12 años
+INFO    2022-05-28 11:07:12,511 [main] com.dh.Test  - La edad del tigre Shere Khan es: 4 años
+INFO    2022-05-28 11:07:12,512 [main] com.dh.Test  - La edad del tigre Tiger es: -2 años
+INFO    2022-05-28 11:08:00,640 [main] com.dh.Test  - El León Scar está corriendo
+INFO    2022-05-28 11:08:00,642 [main] com.dh.Test  - El León Nala está corriendo
+INFO    2022-05-28 11:08:00,652 [main] com.dh.Test  - La edad del León Scar es 11. Por lo tanto es alfa
+INFO    2022-05-28 11:08:00,652 [main] com.dh.Test  - La edad del León Scar es incorrecta
+ERROR   2022-05-28 11:08:00,653 [main] com.dh.Test  - La edad del leonScares incorrecta
+java.lang.RuntimeException
+	at com.dh.Leon.esMayorA10(Leon.java:40)
+	at com.dh.Test.main(Test.java:19)
+INFO    2022-05-28 11:08:00,656 [main] com.dh.Test  - La edad del León Nala es 8. Por lo tanto no es alfa
+INFO    2022-05-28 11:08:00,656 [main] com.dh.Test  - La edad del León Simba es incorrecta
+ERROR   2022-05-28 11:08:00,656 [main] com.dh.Test  - La edad del leonSimbaes incorrecta
+java.lang.RuntimeException
+	at com.dh.Leon.esMayorA10(Leon.java:40)
+	at com.dh.Test.main(Test.java:32)
+INFO    2022-05-28 11:08:00,658 [main] com.dh.Test  - El Tigre Kelloggs está corriendo
+INFO    2022-05-28 11:08:00,658 [main] com.dh.Test  - El Tigre Shere Khan está corriendo
+INFO    2022-05-28 11:08:00,659 [main] com.dh.Test  - La edad del tigre Kelloggs es: 12 años
+INFO    2022-05-28 11:08:00,660 [main] com.dh.Test  - La edad del tigre Shere Khan es: 4 años
+INFO    2022-05-28 11:08:00,660 [main] com.dh.Test  - La edad del tigre Tiger es: -2 años
+INFO    2022-05-28 11:08:04,236 [main] com.dh.Test  - El León Scar está corriendo
+INFO    2022-05-28 11:08:04,237 [main] com.dh.Test  - El León Nala está corriendo
+INFO    2022-05-28 11:08:04,257 [main] com.dh.Test  - La edad del León Scar es 11. Por lo tanto es alfa
+INFO    2022-05-28 11:08:04,257 [main] com.dh.Test  - La edad del León Scar es incorrecta
+ERROR   2022-05-28 11:08:04,258 [main] com.dh.Test  - La edad del leonScares incorrecta
+java.lang.RuntimeException
+	at com.dh.Leon.esMayorA10(Leon.java:40)
+	at com.dh.Test.main(Test.java:19)
+INFO    2022-05-28 11:08:04,267 [main] com.dh.Test  - La edad del León Nala es 8. Por lo tanto no es alfa
+INFO    2022-05-28 11:08:04,267 [main] com.dh.Test  - La edad del León Simba es incorrecta
+ERROR   2022-05-28 11:08:04,267 [main] com.dh.Test  - La edad del leonSimbaes incorrecta
+java.lang.RuntimeException
+	at com.dh.Leon.esMayorA10(Leon.java:40)
+	at com.dh.Test.main(Test.java:32)
+INFO    2022-05-28 11:08:04,268 [main] com.dh.Test  - El Tigre Kelloggs está corriendo
+INFO    2022-05-28 11:08:04,268 [main] com.dh.Test  - El Tigre Shere Khan está corriendo
+INFO    2022-05-28 11:08:04,269 [main] com.dh.Test  - La edad del tigre Kelloggs es: 12 años
+INFO    2022-05-28 11:08:04,269 [main] com.dh.Test  - La edad del tigre Shere Khan es: 4 años
+INFO    2022-05-28 11:08:04,270 [main] com.dh.Test  - La edad del tigre Tiger es: -2 años
+INFO    2022-05-28 11:09:03,382 [main] com.dh.Test  - El León Scar está corriendo
+INFO    2022-05-28 11:09:03,383 [main] com.dh.Test  - El León Nala está corriendo
+INFO    2022-05-28 11:09:03,391 [main] com.dh.Test  - La edad del León Scar es 11. Por lo tanto es alfa
+INFO    2022-05-28 11:09:03,391 [main] com.dh.Test  - La edad del León Nala es 8. Por lo tanto no es alfa
+INFO    2022-05-28 11:09:03,391 [main] com.dh.Test  - La edad del León Simba es incorrecta
+ERROR   2022-05-28 11:09:03,392 [main] com.dh.Test  - La edad del leonSimbaes incorrecta
+java.lang.RuntimeException
+	at com.dh.Leon.esMayorA10(Leon.java:40)
+	at com.dh.Test.main(Test.java:32)
+INFO    2022-05-28 11:09:03,395 [main] com.dh.Test  - El Tigre Kelloggs está corriendo
+INFO    2022-05-28 11:09:03,395 [main] com.dh.Test  - El Tigre Shere Khan está corriendo
+INFO    2022-05-28 11:09:03,395 [main] com.dh.Test  - La edad del tigre Kelloggs es: 12 años
+INFO    2022-05-28 11:09:03,395 [main] com.dh.Test  - La edad del tigre Shere Khan es: 4 años
+INFO    2022-05-28 11:09:03,396 [main] com.dh.Test  - La edad del tigre Tiger es: -2 años
+INFO    2022-05-28 11:10:07,664 [main] com.dh.Test  - El León Scar está corriendo
+INFO    2022-05-28 11:10:07,666 [main] com.dh.Test  - El León Nala está corriendo
+INFO    2022-05-28 11:10:07,674 [main] com.dh.Test  - La edad del León Scar es 11años. Por lo tanto es alfa
+INFO    2022-05-28 11:10:07,675 [main] com.dh.Test  - La edad del León Nala es 8años. Por lo tanto no es alfa
+INFO    2022-05-28 11:10:07,675 [main] com.dh.Test  - La edad del León Simba es incorrecta
+ERROR   2022-05-28 11:10:07,677 [main] com.dh.Test  - La edad del leonSimbaes incorrecta
+java.lang.RuntimeException
+	at com.dh.Leon.esMayorA10(Leon.java:40)
+	at com.dh.Test.main(Test.java:32)
+INFO    2022-05-28 11:10:07,679 [main] com.dh.Test  - El Tigre Kelloggs está corriendo
+INFO    2022-05-28 11:10:07,680 [main] com.dh.Test  - El Tigre Shere Khan está corriendo
+INFO    2022-05-28 11:10:07,680 [main] com.dh.Test  - La edad del tigre Kelloggs es: 12 años
+INFO    2022-05-28 11:10:07,680 [main] com.dh.Test  - La edad del tigre Shere Khan es: 4 años
+INFO    2022-05-28 11:10:07,680 [main] com.dh.Test  - La edad del tigre Tiger es: -2 años
+INFO    2022-05-28 11:13:17,525 [main] com.dh.Test  - El León Scar está corriendo
+INFO    2022-05-28 11:13:17,527 [main] com.dh.Test  - El León Nala está corriendo
+INFO    2022-05-28 11:13:17,536 [main] com.dh.Test  - La edad del León Scar es 11 años. Por lo tanto es alfa
+INFO    2022-05-28 11:13:17,537 [main] com.dh.Test  - La edad del León Nala es 8 años. Por lo tanto no es alfa
+INFO    2022-05-28 11:13:17,537 [main] com.dh.Test  - La edad del León Simba es incorrecta
+ERROR   2022-05-28 11:13:17,538 [main] com.dh.Test  - La edad del leon Simba es incorrecta
+java.lang.RuntimeException
+	at com.dh.Leon.esMayorA10(Leon.java:40)
+	at com.dh.Test.main(Test.java:32)
+INFO    2022-05-28 11:13:17,541 [main] com.dh.Test  - El Tigre Kelloggs está corriendo
+INFO    2022-05-28 11:13:17,541 [main] com.dh.Test  - El Tigre Shere Khan está corriendo
+INFO    2022-05-28 11:13:17,542 [main] com.dh.Test  - La edad del tigre Kelloggs es 12 años.
+INFO    2022-05-28 11:13:17,542 [main] com.dh.Test  - La edad del tigre Shere Khan es 4 años.
+INFO    2022-05-28 11:13:17,543 [main] com.dh.Test  - La edad del tigre Tiger es incorrecta
+ERROR   2022-05-28 11:13:17,543 [main] com.dh.Test  - La edad del tigre Tiger es incorrecta
+java.lang.RuntimeException
+	at com.dh.Tigre.esMayorA10(Tigre.java:33)
+	at com.dh.Test.main(Test.java:56)
+INFO    2022-05-28 11:14:47,247 [main] com.dh.Test  - El León Scar está corriendo
+INFO    2022-05-28 11:14:47,264 [main] com.dh.Test  - El León Nala está corriendo
+INFO    2022-05-28 11:14:47,265 [main] com.dh.Test  - La edad del León Simba es incorrecta
+ERROR   2022-05-28 11:14:47,266 [main] com.dh.Test  - La edad del leon Simba es incorrecta
+java.lang.RuntimeException
+	at com.dh.Leon.esMayorA10(Leon.java:40)
+	at com.dh.Test.main(Test.java:19)
+INFO    2022-05-28 11:14:47,269 [main] com.dh.Test  - El Tigre Kelloggs está corriendo
+INFO    2022-05-28 11:14:47,269 [main] com.dh.Test  - El Tigre Shere Khan está corriendo
+INFO    2022-05-28 11:14:47,270 [main] com.dh.Test  - La edad del tigre Tiger es incorrecta
+ERROR   2022-05-28 11:14:47,270 [main] com.dh.Test  - La edad del tigre Tiger es incorrecta
+java.lang.RuntimeException
+	at com.dh.Tigre.esMayorA10(Tigre.java:33)
+	at com.dh.Test.main(Test.java:33)
+INFO    2022-05-28 11:16:10,885 [main] com.dh.Test  - El León Scar está corriendo
+INFO    2022-05-28 11:16:10,886 [main] com.dh.Test  - El León Nala está corriendo
+INFO    2022-05-28 11:16:10,886 [main] com.dh.Test  - La edad no puede ser negativa
+ERROR   2022-05-28 11:16:10,888 [main] com.dh.Test  - La edad del leon Simba es incorrecta
+java.lang.RuntimeException
+	at com.dh.Leon.esMayorA10(Leon.java:40)
+	at com.dh.Test.main(Test.java:19)
+INFO    2022-05-28 11:16:10,891 [main] com.dh.Test  - El Tigre Kelloggs está corriendo
+INFO    2022-05-28 11:16:10,891 [main] com.dh.Test  - El Tigre Shere Khan está corriendo
+INFO    2022-05-28 11:16:10,891 [main] com.dh.Test  - La edad no puede ser negativa
+ERROR   2022-05-28 11:16:10,892 [main] com.dh.Test  - La edad del tigre Tiger es incorrecta
+java.lang.RuntimeException
+	at com.dh.Tigre.esMayorA10(Tigre.java:33)
+	at com.dh.Test.main(Test.java:33)
